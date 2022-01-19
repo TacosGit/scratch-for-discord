@@ -1,1 +1,1 @@
-aa
+import "./isonlynum";
