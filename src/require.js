@@ -170,4 +170,7 @@ if(js.includes("AntiSpam")){
   if(js.includes("translate")){
     array.push(`const translate = require('translate-google');`)
 }
+if(js.includes(".match(allowedChars)")){
+array.push(`var allowedChars = /^[0-9]+$/`)
+}
 }
