@@ -526,7 +526,7 @@ export default (Blockly, value) => {
         </category>
 	
 	<category name="AlexCdDg" colour="#06cfaa">
-        
+
         <category name="TTS" colour="#1010b5">
         <label text="Connect and use TTS" web-class="boldtext"></label>
         <block type="tts-test"/>
@@ -575,6 +575,14 @@ export default (Blockly, value) => {
         <block type="invite_ur"/>
 	</category>
  	</category>
+	
+	<category name="Taco" colour="#ff3333">
+	
+		<category name="Text" colour="#5f68e8">
+			<block type="isonlynumeric"></block>
+		</category>
+	
+	</category>
 
 <category name="frostzzone" colour="#347dfa">
 
