@@ -7,7 +7,7 @@ const blockData = {
   "args0": [
     {
       "type": "input_value",
-      "check": ["String", "Number"],
+      "check": ["String"],
       "name": "text"
    
     }
