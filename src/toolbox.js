@@ -577,11 +577,10 @@ export default (Blockly, value) => {
  	</category>
 	
 	<category name="Taco" colour="#ff3333">
-	
 		<category name="Text" colour="#5f68e8">
+			<label text="Some booleans"></label>
 			<block type="isonlynumeric"></block>
 		</category>
-	
 	</category>
 
 <category name="frostzzone" colour="#347dfa">
